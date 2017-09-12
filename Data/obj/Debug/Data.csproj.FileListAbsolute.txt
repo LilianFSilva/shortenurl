@@ -1,0 +1,14 @@
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\Data.dll.config
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\Data.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\Data.pdb
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\Entities.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\EntityFramework.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\MySql.Data.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\Entities.pdb
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\EntityFramework.xml
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\obj\Debug\Data.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Data\obj\Debug\Data.pdb

@@ -1,0 +1,12 @@
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\Exceptions.dll.config
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\EntityFramework.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\MySql.Data.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\EntityFramework.xml
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Lilian Freitas\Desktop\Bemobi\ShortenURL\Exceptions\obj\Debug\Exceptions.pdb
